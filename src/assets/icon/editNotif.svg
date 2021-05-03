@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="editNotif" opacity="0.5">
+    <g id="Bounding_Boxes">
+      <path id="Path_2326" data-name="Path 2326" d="M0,0H30V30H0Z" fill="none"/>
+    </g>
+    <g id="Outline" transform="translate(3.75 3.75)">
+      <g id="Group_48" data-name="Group 48">
+        <path id="Path_2327" data-name="Path 2327" d="M23,15.5v5H5.5v-5H23M24.25,13h-20A1.254,1.254,0,0,0,3,14.25v7.5A1.254,1.254,0,0,0,4.25,23h20a1.254,1.254,0,0,0,1.25-1.25v-7.5A1.254,1.254,0,0,0,24.25,13Z" transform="translate(-3 -0.5)"/>
+        <path id="Path_2328" data-name="Path 2328" d="M7.375,19.25A1.875,1.875,0,1,1,9.25,17.375,1.881,1.881,0,0,1,7.375,19.25Z" transform="translate(-2.375 0.125)"/>
+        <path id="Path_2329" data-name="Path 2329" d="M23,5.5v5H5.5v-5H23M24.25,3h-20A1.254,1.254,0,0,0,3,4.25v7.5A1.254,1.254,0,0,0,4.25,13h20a1.254,1.254,0,0,0,1.25-1.25V4.25A1.254,1.254,0,0,0,24.25,3Z" transform="translate(-3 -3)"/>
+        <path id="Path_2330" data-name="Path 2330" d="M7.375,9.25A1.875,1.875,0,1,1,9.25,7.375,1.881,1.881,0,0,1,7.375,9.25Z" transform="translate(-2.375 -2.375)"/>
+      </g>
+    </g>
+  </g>
+</svg>
